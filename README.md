@@ -7,6 +7,9 @@ A modern, fast, and beautiful rental management application built with React, Ty
 ![TypeScript](https://img.shields.io/badge/TypeScript-5.5.3-3178c6.svg)
 ![Vite](https://img.shields.io/badge/Vite-5.4.2-646cff.svg)
 
+## 🚀 Live Demo
+🔗 https://deghservice.vercel.app
+
 ## ✨ Features
 
 ### 📊 Dashboard
